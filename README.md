@@ -1,3 +1,5 @@
+**NinjaStreamer RTMP**
+
 * Open `conf/nginx.conf` in notepad
 * Change `push` urls under `liveout` 
 * Run `start nginx and ffmpeg 1080p 6mbps.bat` for 1080p
