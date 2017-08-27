@@ -9,7 +9,7 @@
 * Run `kill nginx and ffmpeg.bat` to taskkill if it hangs
 
 
-nginx-rtmp-win32
+**nginx-rtmp-win32**
 ================
 
 Nginx: 1.11.10  
@@ -18,7 +18,7 @@ openssl-1.1.0e
 pcre-8.40  
 zlib-1.2.10
 
-# configure arguments
+**configure arguments**
 ```
 nginx version: nginx/1.11.10
 built by cl
