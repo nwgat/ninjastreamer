@@ -1,4 +1,4 @@
-**NinjaStreamer RTMP**
+# NinjaStreamer RTMP
 
 * Open `conf/nginx.conf` in notepad
 * Change `push` urls under `liveout` 
