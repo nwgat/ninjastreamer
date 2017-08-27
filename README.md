@@ -2,7 +2,7 @@
 
 * Open `conf/nginx.conf` in notepad
 * Change `push` urls under `liveout` 
-* unzip ffmpeg.zip to same folder
+* unzip `ffmpeg.zip` to same folder
 * Run `start nginx and ffmpeg 1080p 6mbps.bat` for 1080p
 * Run `start nginx and ffmpeg 720p 3mbps.bat` for 720p
 * in OBS Studio click `start streaming`
