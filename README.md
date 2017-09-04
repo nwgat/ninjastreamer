@@ -3,8 +3,8 @@
 * Open `conf/nginx.conf` in notepad
 * Change `push` urls under `liveout` 
 * unzip `ffmpeg.zip` to same folder
-* Run `start nginx and ffmpeg 1080p 6mbps.bat` for 1080p
-* Run `start nginx and ffmpeg 720p 3mbps.bat` for 720p
+* Run `ninjastreamer.1080p.bat` for 1080p 6mbps
+* Run `ninjastreamer.720p.bat` for 720p 3mbps
 * in OBS Studio click `start streaming`
 * Run `stop nginx.bat` to stop nginx
 * Run `kill nginx and ffmpeg.bat` to taskkill if it hangs
